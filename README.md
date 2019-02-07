@@ -10,7 +10,7 @@ for create a project, i need to have an idea
 
 __**for exemple :**__
 | bad | good |
-| :------------ | -------------: |
+| ------------ | ------------- |
 | one | one |
 | two | two |
 
