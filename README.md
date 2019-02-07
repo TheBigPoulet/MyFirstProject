@@ -9,10 +9,11 @@
 for create a project, i need to have an idea
 
 __**for exemple :**__
-| bad | good |
-| ------------ | ------------- |
-| one | one |
-| two | two |
+| Titre 1       |     Titre 2     |        Titre 3 |
+| :------------ | :-------------: | -------------: |
+| Colonne       |     Colonne     |        Colonne |
+| Alignée à     |   Alignée au    |      Alignée à |
+| Gauche        |     Centre      |         Droite |
 
 ## 2) i use
 i use
