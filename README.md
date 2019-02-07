@@ -20,7 +20,8 @@ i use
 
 ## 3) i delete
 
-use this command : *kill your seilf plz*
+use this command : *kill your seilf*
 
 *exemple :*
+
 ![alt text](https://i.kym-cdn.com/entries/icons/mobile/000/011/113/killyourselves.jpg)
